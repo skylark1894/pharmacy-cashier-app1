@@ -1,0 +1,1 @@
+{"id": "pharmacy-cashier-app-tuq2", "lang": "typescript"}
